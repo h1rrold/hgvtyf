@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "weapons:item/dynasty_sword_t1"
+  }
+}

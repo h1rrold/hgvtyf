@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "weapons:item/heavy_hitter_t2"
+  }
+}

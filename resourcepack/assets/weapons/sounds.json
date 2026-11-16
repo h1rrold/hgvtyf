@@ -1,0 +1,290 @@
+{
+  "beam_charge": {
+    "sounds": [
+      {
+        "name": "weapons:beam_charge",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.beam_charge"
+  },
+  "beam_loop": {
+    "sounds": [
+      {
+        "name": "weapons:beam_loop",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.beam_loop"
+  },
+  "dash": {
+    "sounds": [
+      {
+        "name": "weapons:dash",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.dash"
+  },
+  "vines": {
+    "sounds": [
+      {
+        "name": "weapons:vines",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.vines"
+  },
+  "bubble": {
+    "sounds": [
+      {
+        "name": "weapons:bubble",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.bubble"
+  },
+  "bubble_drain": {
+    "sounds": [
+      {
+        "name": "weapons:bubble_drain",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.bubble_drain"
+  },
+  "kiwi_eat": {
+    "sounds": [
+      {
+        "name": "weapons:kiwi_eat",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.kiwi_eat"
+  },
+  "freeze": {
+    "sounds": [
+      {
+        "name": "weapons:freeze",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.freeze"
+  },
+  "ice_crit": {
+    "sounds": [
+      {
+        "name": "weapons:ice_crit",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.ice_crit"
+  },
+  "coin_throw": {
+    "sounds": [
+      {
+        "name": "weapons:coin_throw",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.coin_throw"
+  },
+  "coin_hit": {
+    "sounds": [
+      {
+        "name": "weapons:coin_hit",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.coin_hit"
+  },
+  "spin": {
+    "sounds": [
+      {
+        "name": "weapons:spin",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.spin"
+  },
+  "double_jump": {
+    "sounds": [
+      {
+        "name": "weapons:double_jump",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.double_jump"
+  },
+  "lava_wall": {
+    "sounds": [
+      {
+        "name": "weapons:lava_wall",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.lava_wall"
+  },
+  "blaze_summon": {
+    "sounds": [
+      {
+        "name": "weapons:blaze_summon",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.blaze_summon"
+  },
+  "heal": {
+    "sounds": [
+      {
+        "name": "weapons:heal",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.heal"
+  },
+  "inferno_slam": {
+    "sounds": [
+      {
+        "name": "weapons:inferno_slam",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.inferno_slam"
+  },
+  "cleave": {
+    "sounds": [
+      {
+        "name": "weapons:cleave",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.cleave"
+  },
+  "dragon_breath": {
+    "sounds": [
+      {
+        "name": "weapons:dragon_breath",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.dragon_breath"
+  },
+  "dragon_slam": {
+    "sounds": [
+      {
+        "name": "weapons:dragon_slam",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.dragon_slam"
+  },
+  "cataclysm_charge": {
+    "sounds": [
+      {
+        "name": "weapons:cataclysm_charge",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.cataclysm_charge"
+  },
+  "cataclysm_blast": {
+    "sounds": [
+      {
+        "name": "weapons:cataclysm_blast",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.cataclysm_blast"
+  },
+  "titan_charge": {
+    "sounds": [
+      {
+        "name": "weapons:titan_charge",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.titan_charge"
+  },
+  "titan_slam": {
+    "sounds": [
+      {
+        "name": "weapons:titan_slam",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.titan_slam"
+  },
+  "colossus_hit": {
+    "sounds": [
+      {
+        "name": "weapons:colossus_hit",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.colossus_hit"
+  },
+  "colossus_shockwave": {
+    "sounds": [
+      {
+        "name": "weapons:colossus_shockwave",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.colossus_shockwave"
+  },
+  "double_hit": {
+    "sounds": [
+      {
+        "name": "weapons:double_hit",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.double_hit"
+  },
+  "upgrade": {
+    "sounds": [
+      {
+        "name": "weapons:upgrade",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.upgrade"
+  },
+  "reroll": {
+    "sounds": [
+      {
+        "name": "weapons:reroll",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.reroll"
+  },
+  "hh_claim": {
+    "sounds": [
+      {
+        "name": "weapons:hh_claim",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.hh_claim"
+  },
+  "passive_chime": {
+    "sounds": [
+      {
+        "name": "weapons:passive_chime",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.passive_chime"
+  },
+  "error": {
+    "sounds": [
+      {
+        "name": "weapons:error",
+        "stream": false
+      }
+    ],
+    "subtitle": "weapons.subtitle.error"
+  }
+}
